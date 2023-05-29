@@ -1,0 +1,33 @@
+- category: Preprocessing
+  content:
+  - tag: general
+    name: 'Preprocessing for deep learning'
+    url:
+      - https://github.com/antonior92/ecg-preprocessing
+- category: Traditional tasks
+  content:
+  - tag:
+    name: 'Classification of abnormal ECGs'
+    url: https://github.com/antonior92/automatic-ecg-diagnosis
+- category:  AI-enabled tasks
+  content:
+  - tag: chagas
+    name: 'Chagas'
+    url: https://github.com/carji475/ecg-chagas
+  - tag: electrolyte
+    name: 'Electrolyte concentration prediction'
+    url: https://github.com/philippvb/ecg-electrolyte-regression
+  - tag: age
+    name: 'Age prediction'
+    url: https://github.com/antonior92/ecg-age-prediction
+  - tag: af-risk
+    name: 'Atrial fibrillation risk prediction'
+    url: https://github.com/mygithth27/af-risk-prediction-by-ecg-dnn
+- category: Interpretation
+  content:
+  - tag: heatmaps
+    name: 'Heatmaps visualizations'
+    url: https://github.com/antonior92/ecg-heatmaps
+
+
+

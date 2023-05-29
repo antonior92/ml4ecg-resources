@@ -1,0 +1,25 @@
+- name: "CODE: an annotated 12-lead ECG dataset containing exams from more than a million patients"
+  url: https://doi.org/10.17044/scilifelab.15169716
+  avaibility: available for research upon request
+  description: Dataset with annotated 12-lead ECG records. The exams were taken in 811 counties in the state of
+    Minas Gerais/Brazil by the Telehealth Network of Minas Gerais (TNMG) between 2010 and 2016. And organized by
+    the CODE (Clinical outcomes in digital electrocardiography) group.
+- name: "CODE-test: an 12-lead ECG dataset annotated by multiple experts"
+  url: https://doi.org/10.5281/zenodo.3765780
+  avaibility: openly available
+  description: Annotated 12 lead ECG dataset. Contain 827 ECG tracings from different patients,
+    annotated by several cardiologists, residents  and medical students.
+- name: "CODE-15%: a large scale annotated dataset of 12-lead ECGs"
+  url: https://doi.org/10.5281/zenodo.4916206
+  avaibility: openly available
+  description: A dataset of 12-lead ECGs with annotations. The dataset contains 345 779 exams from
+    233 770 patients. It was obtained through stratified sampling from the CODE dataset (
+    15% of the patients). The data was collected by the Telehealth Network of
+    Minas Gerais in the period between 2010 and 2016.
+- name: "SaMi-Trop: 12-lead ECG traces with age and mortality annotations"
+  url: https://doi.org/10.5281/zenodo.4905618
+  avaibility: openly available
+  description: SaMi-Trop is an NIH-funded prospective cohort of 1959 patients with chronic Chagas cardiomyopathy
+    to evaluate whether a clinical prediction rule based on ECG, brain natriuretic peptide (BNP) levels,
+    and other biomarkers can be useful in clinical practice. A subset of the SaMi-Trop dataset with annotations
+    of age and mortality and the correspondent ECG traces is openly available here.
